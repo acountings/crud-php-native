@@ -97,7 +97,7 @@ if (isset($_POST['login'])) {
                     </div>
 
                     <div class="mb-3">
-                       <div class="g-recaptcha" data-sitekey='6Leq7nQpAAAAAF5TyIy1BRH4WnD_OwMdm54shFdQ';></div>
+                       <div class="g-recaptcha" data-sitekey='your login google recaptcha in generate key';></div>
                     </div>
 
                     <div class="row">
