@@ -96,6 +96,10 @@ if (isset($_POST['login'])) {
                         </div>
                     </div>
 
+                    <div class="mb-3">
+                       <div class="g-recaptcha" data-sitekey='6Leq7nQpAAAAAF5TyIy1BRH4WnD_OwMdm54shFdQ';></div>
+                    </div>
+
                     <div class="row">
                         <div class="col-8">
                         </div>
@@ -126,6 +130,8 @@ if (isset($_POST['login'])) {
     <script src="assets-template/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- AdminLTE App -->
     <script src="assets-template/dist/js/adminlte.min.js"></script>
+    <!-- recaptcha api  -->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 </body>
 
 </html>
