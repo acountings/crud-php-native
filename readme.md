@@ -1,4 +1,5 @@
-# Source Code Playlist Full CRUD PHP MySQL BY Muba Teknologi RESERVED @dun17 
+# Source Code Playlist 
+CRUD PHP MySQL BY Muba Teknologi RESERVED @dun17 
 Teknologi :
 - PHP 8.*
 - Bootstrap 4.*
@@ -17,4 +18,4 @@ User Login
 - username : opmahasiswa
 - password : 123456
 
-link akses : localhost/full-crudphp
+link akses : localhost/crud-php-native
