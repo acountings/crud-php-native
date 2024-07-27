@@ -1,5 +1,6 @@
 # Source Code Playlist 
 CRUD PHP MySQL BY Muba Teknologi RESERVED @dun17 
+Ada Fitur yg dari tambah data barang ini yaitu sebuah sistem dengan pembayaran online 
 
 
 
